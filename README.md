@@ -17,7 +17,6 @@
   | [Źródło](https://zrodlo.ai) | AI legal research, verified live against the official statute database |
   | [finpredict](https://finpredict.com) | Production multi-agent system — autonomous fleet, persistent memory |
   | [Ustna @ Odrabiamy](https://ustna.odrabiamy.pl) | AI-run EdTech — 120K students served in two weeks |
-  | [PersonaArchitect](https://github.com/lwedel/PersonaArchitect) | Open-source framework for building AI agent personas |
 
   ### Track record
   COO @ Odrabiamy (2M+ MAU) · Founder @ FinPredict · Program Manager @ Cisco · GM @ Booming Games (10,000%+ YoY
